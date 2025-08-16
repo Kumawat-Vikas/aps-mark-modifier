@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="DBApplication">
+    <Name>MarkModifierApp</Name>
+    <Assembly>MarkModifierApp.dll</Assembly>
+    <AddInId>6f3e6a1e-3d1b-4b74-8d8a-3fcd7e2c0a11</AddInId>
+    <FullClassName>MarkModifierAppNs.MarkModifierApp</FullClassName>
+    <VendorId>MMAP</VendorId>
+    <VendorDescription>APS Mark Modifier</VendorDescription>
+  </AddIn>
+</RevitAddIns>
